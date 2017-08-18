@@ -1,0 +1,6 @@
+projectKey=PruebaJenkins
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/PruebaJenkins
+ceTaskId=AV32JLB4HYyItGzr0MU3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV32JLB4HYyItGzr0MU3

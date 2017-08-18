@@ -98,3 +98,5 @@ public class ClientDAOJPAImplTest {
 	}
 
 }
+
+//esto es un comentario de prueba para jenkins
